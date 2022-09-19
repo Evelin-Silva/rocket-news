@@ -4,4 +4,4 @@ Desafio de projeto da Rocketseat, uma página com um formulário para que os usu
 
 <h2>🚧👩‍💻 Em construção</h2>
 
-[Link para o card](https://index-evelin.github.io/rocket-news/)
+[Link para o projeto](https://index-evelin.github.io/rocket-news/)
